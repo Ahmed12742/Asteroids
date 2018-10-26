@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 1c7c0581ec73d5e42a96e1dcab23d908
+timeCreated: 1509022539
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group2_pCone1
+    100004: group2_pCube10
+    100006: group2_pCube12
+    100008: group2_pCube14
+    100010: group2_pCube15
+    100012: group2_pCube16
+    100014: group2_pCube17
+    100016: group2_pCube2
+    100018: group2_pCube3
+    100020: group2_pCube4
+    100022: group2_pCube5
+    100024: group2_pCube7
+    100026: group2_pCylinder10
+    100028: group2_pCylinder3
+    100030: group2_pCylinder5
+    100032: group2_pCylinder6
+    100034: group2_pCylinder7
+    100036: group2_pCylinder8
+    100038: group2_pCylinder9
+    100040: group2_pPlane1
+    100042: group2_pPyramid1
+    100044: group2_pTorus1
+    100046: group2_pTorus2
+    100048: group2_pTorus3
+    100050: group2_pTorus4
+    100052: pCylinder2_group2
+    400000: //RootNode
+    400002: group2_pCone1
+    400004: group2_pCube10
+    400006: group2_pCube12
+    400008: group2_pCube14
+    400010: group2_pCube15
+    400012: group2_pCube16
+    400014: group2_pCube17
+    400016: group2_pCube2
+    400018: group2_pCube3
+    400020: group2_pCube4
+    400022: group2_pCube5
+    400024: group2_pCube7
+    400026: group2_pCylinder10
+    400028: group2_pCylinder3
+    400030: group2_pCylinder5
+    400032: group2_pCylinder6
+    400034: group2_pCylinder7
+    400036: group2_pCylinder8
+    400038: group2_pCylinder9
+    400040: group2_pPlane1
+    400042: group2_pPyramid1
+    400044: group2_pTorus1
+    400046: group2_pTorus2
+    400048: group2_pTorus3
+    400050: group2_pTorus4
+    400052: pCylinder2_group2
+    2300000: group2_pCone1
+    2300002: group2_pCube10
+    2300004: group2_pCube12
+    2300006: group2_pCube14
+    2300008: group2_pCube15
+    2300010: group2_pCube16
+    2300012: group2_pCube17
+    2300014: group2_pCube2
+    2300016: group2_pCube3
+    2300018: group2_pCube4
+    2300020: group2_pCube5
+    2300022: group2_pCube7
+    2300024: group2_pCylinder10
+    2300026: group2_pCylinder3
+    2300028: group2_pCylinder5
+    2300030: group2_pCylinder6
+    2300032: group2_pCylinder7
+    2300034: group2_pCylinder8
+    2300036: group2_pCylinder9
+    2300038: group2_pPlane1
+    2300040: group2_pPyramid1
+    2300042: group2_pTorus1
+    2300044: group2_pTorus2
+    2300046: group2_pTorus3
+    2300048: group2_pTorus4
+    2300050: pCylinder2_group2
+    3300000: group2_pCone1
+    3300002: group2_pCube10
+    3300004: group2_pCube12
+    3300006: group2_pCube14
+    3300008: group2_pCube15
+    3300010: group2_pCube16
+    3300012: group2_pCube17
+    3300014: group2_pCube2
+    3300016: group2_pCube3
+    3300018: group2_pCube4
+    3300020: group2_pCube5
+    3300022: group2_pCube7
+    3300024: group2_pCylinder10
+    3300026: group2_pCylinder3
+    3300028: group2_pCylinder5
+    3300030: group2_pCylinder6
+    3300032: group2_pCylinder7
+    3300034: group2_pCylinder8
+    3300036: group2_pCylinder9
+    3300038: group2_pPlane1
+    3300040: group2_pPyramid1
+    3300042: group2_pTorus1
+    3300044: group2_pTorus2
+    3300046: group2_pTorus3
+    3300048: group2_pTorus4
+    3300050: pCylinder2_group2
+    4300000: group2_pCone1
+    4300002: group2_pCube10
+    4300004: group2_pCube12
+    4300006: group2_pCube14
+    4300008: group2_pCube15
+    4300010: group2_pCube16
+    4300012: group2_pCube17
+    4300014: group2_pCube2
+    4300016: group2_pCube3
+    4300018: group2_pCube4
+    4300020: group2_pCube5
+    4300022: group2_pCube7
+    4300024: group2_pCylinder10
+    4300026: group2_pCylinder3
+    4300028: group2_pCylinder5
+    4300030: group2_pCylinder6
+    4300032: group2_pCylinder7
+    4300034: group2_pCylinder8
+    4300036: group2_pCylinder9
+    4300038: group2_pPlane1
+    4300040: group2_pPyramid1
+    4300042: group2_pTorus1
+    4300044: group2_pTorus2
+    4300046: group2_pTorus3
+    4300048: group2_pTorus4
+    4300050: pCylinder2_group2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCone1Mat
+    second: {fileID: 2100000, guid: 96e82a9915ac8244b9b2e8cb7d177b06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube10Mat
+    second: {fileID: 2100000, guid: a11394f1e13b176489b617a0c5ebccea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube12Mat
+    second: {fileID: 2100000, guid: 3bd8ac3f836acb842956b8882539413b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube14Mat
+    second: {fileID: 2100000, guid: a9a507428c36c784f803f282fcc45cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube15Mat
+    second: {fileID: 2100000, guid: 9f830196607c6f94a9203c16c16acf34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube16Mat
+    second: {fileID: 2100000, guid: 2856108e6d78012438e630e68aca9b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube17Mat
+    second: {fileID: 2100000, guid: 2ad72f325d97f164abf0be8832572e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube2Mat
+    second: {fileID: 2100000, guid: 5c12498513b3dd843b6df583980ec9cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube3Mat
+    second: {fileID: 2100000, guid: e6e8c6d1fdb4f294fa93b0ac237e980a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube4Mat
+    second: {fileID: 2100000, guid: c30f679653c520b4ca5560a7071913b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube5Mat
+    second: {fileID: 2100000, guid: a9e15212adb23b448a454ee142ddf08f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCube7Mat
+    second: {fileID: 2100000, guid: 4e19cb58454f92d4880f7c54ce50f727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder10Mat
+    second: {fileID: 2100000, guid: 25d1d19c68f2447488963f8a68439a9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder3Mat
+    second: {fileID: 2100000, guid: 35e4683775570cb4fb5ea374b7b51e9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder5Mat
+    second: {fileID: 2100000, guid: 46cd670e25786784980a2ebcd3f19e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder6Mat
+    second: {fileID: 2100000, guid: dc3c059194cb15a439281eeaad401a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder7Mat
+    second: {fileID: 2100000, guid: 27cd12c9b8ce2d941b1cf9f0d70fcfe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder8Mat
+    second: {fileID: 2100000, guid: 8275b8451667c654598d2bc4e0d46010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pCylinder9Mat
+    second: {fileID: 2100000, guid: 0026a9f932c047340be78decb843bd9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pPlane1Mat
+    second: {fileID: 2100000, guid: f5c9ca404fa1c8b4b882110f273d3fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pPyramid1Mat
+    second: {fileID: 2100000, guid: 33787f859eab46248bfe55ad40fba611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pTorus1Mat
+    second: {fileID: 2100000, guid: 4dab77f119dd8ab409b9bcee08b2dd50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pTorus2Mat
+    second: {fileID: 2100000, guid: 33c076107c375924388d57db559a30af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pTorus3Mat
+    second: {fileID: 2100000, guid: 9e8f11a96b2925a49aa9da478a110c83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group2_pTorus4Mat
+    second: {fileID: 2100000, guid: 88be9b88220f92c4a93a12c174d0ae53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pCylinder2_group2Mat
+    second: {fileID: 2100000, guid: d1e326641e6781e4e96a4be7708b54f3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
